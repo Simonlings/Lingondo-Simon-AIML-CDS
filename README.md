@@ -1,2 +1,2 @@
 # Lingondo-Simon-AIML-CDS
-Assorted repository for A ML and data science projects for academia and medical/corporate projects
+Assorted repository for AI, ML and data science projects for academia and medical/corporate projects
